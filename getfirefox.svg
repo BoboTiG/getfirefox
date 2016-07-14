@@ -58,15 +58,15 @@
       <stop
          id="stop3344"
          stop-opacity="0.8"
-         offset="0.466" />
+         offset="0.24643335" />
       <stop
          id="stop3346"
          stop-opacity="0.733"
-         offset="0.508" />
+         offset="0.46934628" />
       <stop
          id="stop3348"
          stop-opacity="0"
-         offset="0.964" />
+         offset="0.78619283" />
     </radialGradient>
     <linearGradient
        gradientTransform="matrix(1,0,0,-1,-22.5352,286.4424)"
@@ -1311,7 +1311,7 @@
        fx="62.388058"
        fy="79.067162"
        r="56.119404"
-       gradientTransform="matrix(1,0,0,1.2917552,0.1119428,-25.913251)"
+       gradientTransform="matrix(1.0162712,0,0,1.3127737,-1.1076276,-25.535478)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -1327,13 +1327,13 @@
      inkscape:window-height="1018"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="3.28"
-     inkscape:cx="7.6399899"
-     inkscape:cy="76.824492"
+     inkscape:zoom="4.3199428"
+     inkscape:cx="27.3785"
+     inkscape:cy="78.766739"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5"
+     inkscape:current-layer="layer2"
      showguides="true"
      inkscape:guide-bbox="true" />
   <g
@@ -1343,24 +1343,23 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <path
-       style="opacity:0.75;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 3.9925396,121.55053 c 4.2303143,11.22596 22.3529134,17.2355 31.0447754,18.50747 12.238808,1.79104 26.384015,11.80471 27.578044,15.68531 1.791045,-3.5821 12.640812,-13.41629 28.058609,-15.61041 15.417792,-2.19412 26.400822,-9.41854 30.333492,-18.12094 -1.0989,14.80291 -17.64344,20.97074 -28.36756,22.88995 -14.155005,2.53321 -24.638285,7.26642 -29.888954,15.86846 C 56.482288,151.81514 43.99254,146.32665 34.440301,145.13262 24.888062,143.93859 4.2910471,138.26695 3.9925396,121.55053 Z"
-       id="path5093"
+       style="display:inline;opacity:0.55;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:2.03254247;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 62.295558,13.307164 C 34.194582,26.613863 3.6396389,23.269401 3.6396389,23.269401 L 4.8607343,123.85641 c 0.6067342,7.07497 5.6958937,15.07169 15.6763987,18.45564 7.039771,2.38688 19.416247,4.92282 24.876811,6.46086 3.20273,0.90209 13.397388,5.18782 16.881614,10.9805 l 0.410875,-0.002 c 3.485388,-5.79165 13.679253,-10.07652 16.881615,-10.97851 5.460561,-1.53804 17.835055,-4.07398 24.874822,-6.46086 9.98051,-3.38395 15.59233,-11.35522 15.67839,-18.45564 l 1.2191,-100.58701 c 0,0 -30.552948,3.344462 -58.653927,-9.962236 z"
+       id="path4249-1"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csczcsczc" />
+       sodipodi:nodetypes="ccccssccssccc" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="badge"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
-       style="fill:url(#radialGradient5082);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 4.3805994,13.112801 c 0,0 27.0746276,4.23756 58.1194036,-9.3831676 C 90.261197,17.047677 120.6194,13.718167 120.6194,13.718167 l -3.49253,98.977283 c -0.59702,6.9617 -3.31363,14.83119 -13.13434,18.16097 -6.927059,2.34867 -19.104467,4.84293 -24.477601,6.35635 -3.279343,0.92366 -14.029852,5.44828 -17.014926,11.50193 -3.283582,-6.05365 -8.656716,-8.7778 -14.029851,-11.19925 -4.055158,-1.8275 -17.910447,-2.72415 -25.671642,-7.26439 -4.209098,-2.46229 -14.9253733,-5.75098 -14.9253732,-17.5556 z"
+       style="fill:url(#radialGradient5082);fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:6.09762764;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 62.295558,4.7791475 C 34.194582,18.085847 3.6396397,14.741384 3.6396397,14.741384 l 1.45258,100.587036 c 0.1025341,7.1002 5.4644093,15.07169 15.4449133,18.45565 7.039771,2.38687 19.416247,4.92281 24.876811,6.46085 3.20273,0.90209 13.397388,5.18782 16.881614,10.9805 l 0.410875,-0.002 c 3.485388,-5.79165 13.679253,-10.07653 16.881615,-10.97851 5.460561,-1.53804 17.835055,-4.07398 24.874822,-6.46085 9.98051,-3.38396 15.34451,-11.35544 15.4469,-18.45565 l 1.45059,-100.587036 c 0,0 -30.552948,3.344462 -58.653927,-9.962237 z"
        id="path4249"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccsscsscc" />
+       sodipodi:nodetypes="ccscssccssccc" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1370,16 +1369,16 @@
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16px;line-height:125%;font-family:'Fira Sans OT';-inkscape-font-specification:'Fira Sans OT Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="35.649372"
-       y="126.53211"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:16.26033974px;line-height:125%;font-family:'Fira Sans OT';-inkscape-font-specification:'Fira Sans OT Light';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="33.25388"
+       y="129.39035"
        id="text5098"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5100"
-         x="35.649372"
-         y="126.53211"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.875px;font-family:'Fira Sans OT';-inkscape-font-specification:'Fira Sans OT Medium';letter-spacing:0.27000001px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">Firefox</tspan></text>
+         x="33.25388"
+         y="129.39035"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:17.78474617px;font-family:'Fira Sans OT';-inkscape-font-specification:'Fira Sans OT Medium';letter-spacing:0.27439323px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">Firefox</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1389,7 +1388,7 @@
      sodipodi:insensitive="true">
     <g
        id="g3822"
-       transform="matrix(0.24788251,0,0,0.24788251,18.857443,15.507519)">
+       transform="matrix(0.25569297,0,0,0.25370211,17.482326,22.312376)">
       <ellipse
          id="ellipse3824"
          ry="67.900002"
